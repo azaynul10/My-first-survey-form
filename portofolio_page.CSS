@@ -1,0 +1,11 @@
+<link rel="stylesheet" type="text/css" href="main.css"/>
+#img-caption 
+{
+  width: 400px;
+} 
+#image
+{
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
